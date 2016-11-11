@@ -1,0 +1,15 @@
+﻿/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {font-family:"Jellyka Waterways Seafarers";
+src:url("../_fonts/WaterwaysSeafarers.eot?") format("eot"),
+url("../_fonts/WaterwaysSeafarers.woff") format("woff"),
+url("../_fonts/WaterwaysSeafarers.ttf") format("truetype"),
+url("../WaterwaysSeafarers.svg#JellykaWaterwaysSeafarers") format("svg");
+font-weight:normal;
+font-style:normal;
+}
+
+@font-face{
+font-family: "Pattaya";
+src: url("../_fonts/Pattaya/Pattaya-Regular.ttf")format("truetype");
+
+}
