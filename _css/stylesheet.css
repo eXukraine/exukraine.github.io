@@ -13,3 +13,8 @@ font-family: "Pattaya";
 src: url("../_fonts/Pattaya/Pattaya-Regular.ttf")format("truetype");
 
 }
+
+@font-face {
+	font-family:"RobotoCondensed-Italic";
+	src:url("../_fonts/RobotoCondensed-Italic.ttf");
+}

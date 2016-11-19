@@ -23,6 +23,7 @@ body {
 
 header {
   width: 100%;
+  height: 130px;
   max-width: 960px;
   min-width: 430px;
   margin: 0 auto;
@@ -42,11 +43,11 @@ header {
       header .top_menu ul li a {
         font-size: 20px; }
   header .logo_photo img {
-    border-radius: 25%; }
+    border-radius: 25%;
+    margin-top: 46px; }
   header .logo_photo a {
     position: relative;
     top: -42px;
-    font-weight: 600;
     font-size: 30px;
     font-family: "Pattaya", sans-serif; }
   header .logo_photo span {
@@ -63,14 +64,31 @@ header {
 #slider .owl-wrapper-outer {
   border-radius: 15px; }
 
-#main marquee {
-  margin-top: 5px; }
-  #main marquee span {
-    color: #e52325;
-    font-weight: 600; }
-  #main marquee a {
-    color: #00c;
-    font-weight: 600;
-    font-size: 25px; }
+ 
+
+  #main marquee {
+    margin-top: 5px; }
+    #main marquee span {
+      color: #e52325;
+      font-weight: 600;
+      font-size: 25px; }
+    #main marquee a {
+      color: #00c;
+      font-weight: 600;
+      font-size: 25px; }
+    #main img {
+      border-radius: 25%;
+      margin-top: 13px;
+      padding-right: 20px;
+      float: left;
+    }
+    #main span {
+      font-family: "Pattaya", serif;
+      font-size: 20px;
+    }
+    #main p {
+      font-size: 18px;
+      font-family: "RobotoCondensed-Italic";
+    }
 
 /*# sourceMappingURL=main.css.map */
